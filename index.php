@@ -59,11 +59,7 @@
         <li><a href="#">About</a></li>
         <li><a href="#">Projects</a></li>
         <li><a href="#">Gallery</a></li>
-<<<<<<< HEAD
-         <li><a href="#">Blogs</a></li>
-=======
          <li><a href="#">Blog</a></li>
->>>>>>> 460652ebbf8315afe0342bcce6d7d123b7e90e9a
         <li><a href="#">Contact Us</a></li>
       </ul>
       <ul class="nav navbar-nav navbar-right">
