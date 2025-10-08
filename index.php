@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <title>Bootstrap Example One</title>
+  <title>Bootstrap Example Frontend</title>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
@@ -59,7 +59,11 @@
         <li><a href="#">About</a></li>
         <li><a href="#">Projects</a></li>
         <li><a href="#">Gallery</a></li>
+<<<<<<< HEAD
          <li><a href="#">Blogs</a></li>
+=======
+         <li><a href="#">Blog</a></li>
+>>>>>>> 460652ebbf8315afe0342bcce6d7d123b7e90e9a
         <li><a href="#">Contact Us</a></li>
       </ul>
       <ul class="nav navbar-nav navbar-right">
